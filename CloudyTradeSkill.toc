@@ -1,0 +1,9 @@
+## Interface: 90002
+## Title: Cloudy TradeSkill
+## Notes: Improve default TradeSkill UI.
+## Version: 3.1
+## Author: Cloudyfa
+## Dependencies: Blizzard_TradeSkillUI
+## SavedVariablesPerCharacter: CTradeSkillDB
+
+CloudyTradeSkill.lua
